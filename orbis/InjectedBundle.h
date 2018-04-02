@@ -1,0 +1,2 @@
+// Empty Comment
+void WKBundleInitialize();
